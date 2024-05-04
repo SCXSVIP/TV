@@ -1,6 +1,7 @@
 {
 "vodPic":"http://饭太硬.top/深色壁纸/api.php",
-"drives": [
+"drives":
+[
 {"name":"👽ECVE","server":"https://pan.ecve.cn"},
 {"name":"🦆鸭鸭","server":"http://shicheng.wang:555/"},
 {"name":"🐋七米蓝","server":"https://al.chirmyram.com"},
@@ -36,5 +37,5 @@
 {"name":"🎧听闻网盘","server":"https://wangpan.sangxuesheng.com"},
 {"name":"🌊小江","server":"https://dyj.me"},
 {"name":"🕵好汉吧","server":"https://8023.haohanba.cn"}
-  ]
+]
 }
