@@ -1,9 +1,9 @@
 {"storeHouse": [
-{"sourceName":"潇洒散仙库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/xsdc.json"}, 
+{"sourceName":"🤠潇洒科技","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/xsdc.json"}, 
 
-{"sourceName":"📽影视专库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},  
+{"sourceName":"📽影视仓库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},  
 
-{"sourceName":"🐯壁纸专库","sourceUrl":"https://download.kstore.space/download/2883/PY/%E8%AE%A2%E5%88%B6%E5%A3%81%E7%BA%B8%E5%BA%93.txt"},  
+{"sourceName":"🐯壁纸仓库","sourceUrl":"https://download.kstore.space/download/2883/PY/%E8%AE%A2%E5%88%B6%E5%A3%81%E7%BA%B8%E5%BA%93.txt"},  
 
 {"sourceName":"🍚饭太硬库","sourceUrl":"https://d.kstore.space/download/2904/236.txt"},
 
