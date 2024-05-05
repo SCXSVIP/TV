@@ -1,30 +1,27 @@
 🇨🇳󠁧󠁢󠁥󠁮潇洒MTV,#genre#
-凤凰传奇-山河图,https://download.kstore.space/download/2863/MTV/%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87-%E5%B1%B1%E6%B2%B3%E5%9B%BE%EF%BC%88Live%EF%BC%89.mp4
-凤凰传奇-最炫民族风,https://download.kstore.space/download/2863/MTV/%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87-%E6%9C%80%E7%82%AB%E6%B0%91%E6%97%8F%E9%A3%8E.mp4
-古巨基-劲歌金曲1,https://download.kstore.space/download/2863/MTV/%E5%8F%A4%E5%B7%A8%E5%9F%BA-%E5%8A%B2%E6%AD%8C%E9%87%91%E6%9B%B2.mp4
-古巨基-劲歌金曲2,https://download.kstore.space/download/2863/MTV/%E5%8F%A4%E5%B7%A8%E5%9F%BA-%E5%8A%B2%E6%AD%8C.%20%E9%87%91%E6%9B%B22%EF%BC%88%E6%83%85%E6%AD%8C%E7%8E%8B%EF%BC%89.mp4
-古巨基-劲歌金曲3,https://download.kstore.space/download/2863/MTV/%E5%8F%A4%E5%B7%A8%E5%9F%BA-%E5%8A%B2%E6%AD%8C%E9%87%91%E6%9B%B23%20Party%20King%EF%BC%88Live%EF%BC%89.mp4
-周杰伦-Mojito,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-Mojito.mp4
-周杰伦-晴天,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%99%B4%E5%A4%A9.mp4
-周杰伦-最伟大的作品,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81.mp4
-周杰伦-本草纲目,https://download.kstore.space/download/2863/MTV/%E5%91%A8%E6%9D%B0%E4%BC%A6-%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE.mp4
-戴荃-悟空,https://download.kstore.space/download/2863/MTV/%E6%88%B4%E8%8D%83-%E6%82%9F%E7%A9%BA.mp4
-李荣浩-乌梅子酱,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E4%B9%8C%E6%A2%85%E5%AD%90%E9%85%B1.mp4
-李荣浩-李白,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E6%9D%8E%E7%99%BD.mp4
-李荣浩-模特,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E6%A8%A1%E7%89%B9.mp4
-李荣浩-老街,https://download.kstore.space/download/2863/MTV/%E6%9D%8E%E8%8D%A3%E6%B5%A9-%E8%80%81%E8%A1%97.mp4
-毛不易-消愁,https://download.kstore.space/download/2863/MTV/%E6%AF%9B%E4%B8%8D%E6%98%93-%E6%B6%88%E6%84%81%EF%BC%88Live%EF%BC%89.mp4
+凤凰传奇-山河图,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/凤凰传奇-山河图(Live).mp4
+凤凰传奇-最炫民族风,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/凤凰传奇-最炫民族风.mp4
+周杰伦-Mojito,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/周杰伦-Mojito.mp4
+周杰伦-晴天,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/周杰伦-晴天.mp4
+周杰伦-最伟大的作品,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/周杰伦-最伟大的作品.mp4
+周杰伦-本草纲目,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/周杰伦-本草纲目.mp4
+戴荃-悟空,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/戴荃-悟空.mp4
+李荣浩-乌梅子酱,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/李荣浩-乌梅子酱.mp4
+李荣浩-李白,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/李荣浩-李白.mp4
+李荣浩-模特,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/李荣浩-模特.mp4
+李荣浩-老街,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/李荣浩-老街.mp4
+毛不易-消愁,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/毛不易-消愁.mp4
 潇洒MV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
-潇洒MV,https://download.kstore.space/download/2863/MTV/Olivia%20O%E2%80%9DBrien%EF%B9%A0FLETCHER-Bitch%20Back.mp4
-潇洒MV1,https://download.kstore.space/download/2863/MTV/Weki%20Meki-COOL%20%EF%BC%88Performance%20Ver.%EF%BC%89.mp4
-潇洒MV2,https://download.kstore.space/download/2863/MTV/MAMAMOO-AYA.mp4
-潇洒MV3,https://download.kstore.space/download/2863/MTV/aespa%20%EF%BC%88%EC%97%90%EC%8A%A4%ED%8C%8C%EF%BC%89-Black%20Mamba.mp4
-筷子兄弟-小苹果,https://download.kstore.space/download/2863/MTV/%E7%AD%B7%E5%AD%90%E5%85%84%E5%BC%9F-%E5%B0%8F%E8%8B%B9%E6%9E%9C.mp4
-迈克尔·杰克逊-Beat It,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-Beat%20It.mp4
-迈克尔·杰克逊-Dangerous,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-Dangerous.mp4
-迈克尔·杰克逊-Earth Song,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-Earth%20Song-%E3%80%8A%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A%EF%BC%9A%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E3%80%8B%E7%BA%AA%E5%BD%95%E7%89%87%E6%8F%92%E6%9B%B2.mp4
-迈克尔·杰克逊-We Are The World,https://download.kstore.space/download/2863/MTV/Michael%20Jackson-We%20Are%20The%20World%EF%BC%88Demo%EF%BC%89.mp4
-
+潇洒MV,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/Olivia%20O'Brien%26FLETCHER-Bitch%20Back.mp4
+潇洒MV1,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/Weki%20Meki-COOL%20(Performance%20Ver.).mp4
+潇洒MV2,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/MAMAMOO-AYA.mp4
+潇洒MV3,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/aespa%20(%EC%97%90%EC%8A%A4%ED%8C%8C)-Black%20Mamba.mp4
+筷子兄弟-小苹果,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/筷子兄弟-小苹果.mp4
+迈克尔·杰克逊-Dangerous,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/Michael%20Jackson-Dangerous.mp4
+迈克尔·杰克逊-Beat It,https://hub.gitmirror.com/https://raw.githubusercontent.com/SCXSVIP/TV/main/MTV/Michael%20Jackson-We%20Are%20The%20World(Demo).mp4
+古巨基-劲歌金曲,http://xsvip.dynv6.net/tv/古巨基-劲歌金曲.mp4
+古巨基-劲歌. 金曲2(情歌王),http://xsvip.dynv6.net/tv/古巨基-劲歌. 金曲2(情歌王).mp4
+古巨基-劲歌金曲3 Party King(Live),http://xsvip.dynv6.net/tv/古巨基-劲歌金曲3 Party King(Live).mp4
 🇨🇳󠁧󠁢󠁥󠁮潇洒央视,#genre#
 //Meroser-2024.01.09
 //V6-2024.01.14
