@@ -27,6 +27,10 @@
 
 {"sourceName":"💫恒星仓库","sourceUrl":"http://530.my3v.work/hxck.json"},
 
+{"sourceName":"🥗聚合资源","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/%E4%BC%98%E8%B4%A8.json"},
+
+{"sourceName":"🐋聚合福利","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/cr.json"},
+
 {"sourceName":"☠福利仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/fldc.json"},
 
 {"sourceName":"🦕小白仓库","sourceUrl":"http://39.101.135.137:8686/"}]}
