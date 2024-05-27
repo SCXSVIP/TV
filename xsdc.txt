@@ -9,6 +9,8 @@
 
 {"sourceName":"🎤欧歌仓库","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?b=欧歌"},
 
+{"sourceName":"🌴GH-wokaotianshi123","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/wokaotianshi123/tvtg/main/tgdc.json"},
+
 {"sourceName":"🌟拾光仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 
 {"sourceName":"✨星影仓库","sourceUrl":"http://154.3.2.66:8889/down/YgOQS9WjkF6R.txt"},
@@ -27,6 +29,6 @@
 
 {"sourceName":"💫恒星仓库","sourceUrl":"http://530.my3v.work/hxck.json"},
 
-{"sourceName":"🥗聚合(慢)","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/sf467/Tvbox1/main/%E4%BC%98%E8%B4%A8.json"},
+{"sourceName":"☠福利仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/fldc.json"},
 
 {"sourceName":"🦕小白仓库","sourceUrl":"http://39.101.135.137:8686/"}]}
