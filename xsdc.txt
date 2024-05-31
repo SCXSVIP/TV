@@ -13,6 +13,9 @@
 
 {"sourceName":"🌟拾光仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 
+{"sourceName":"🐮小牛仓库1","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc"},
+{"sourceName":"🐮小牛仓库2","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/tgdc.json"},
+
 {"sourceName":"✨星影仓库","sourceUrl":"http://154.3.2.66:8889/down/YgOQS9WjkF6R.txt"},
 
 {"sourceName":"🦅金鹰仓库","sourceUrl":"http://530.my3v.work/99668.json"},
