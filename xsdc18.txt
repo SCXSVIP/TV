@@ -1,6 +1,6 @@
 {"storeHouse": [
-{"sourceName":"🤠潇洒科技","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/xsdc18.json"}, 
+{"sourceName":"🔞潇洒","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/xsdc18.json"}, 
 
-{"sourceName":"☠福利仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/fldc.json"},
+{"sourceName":"☠福利","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/fldc.json"},
 
 {"sourceName":"🦕小白仓库","sourceUrl":"http://39.101.135.137:8686/"}]}
