@@ -1,6 +1,8 @@
 {"storeHouse": [
 {"sourceName":"🤠潇洒科技","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/xsdc.json"}, 
 
+{"sourceName":"💞黎歌仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/yangxiaoge/tvbox_cust/master/tvbox/%E9%BB%8E%E6%AD%8C%E5%A4%9A%E4%BB%93.json"}, 
+
 {"sourceName":"📽影视仓库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},  
 
 {"sourceName":"🐯壁纸仓库","sourceUrl":"https://download.kstore.space/download/2883/PY/%E8%AE%A2%E5%88%B6%E5%A3%81%E7%BA%B8%E5%BA%93.txt"},  
@@ -33,7 +35,5 @@
 {"sourceName":"🐶宋歌仓库","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=装B小宋哥直播1http://v.nxog.top/jar/live.jpg"},
 
 {"sourceName":"💫恒星仓库","sourceUrl":"http://530.my3v.work/hxck.json"},
-
-{"sourceName":"☠福利仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/fldc.json"},
 
 {"sourceName":"🦕小白仓库","sourceUrl":"http://39.101.135.137:8686/"}]}
