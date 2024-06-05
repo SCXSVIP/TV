@@ -5,6 +5,8 @@
 
 {"sourceName":"🐟摸鱼仓库","sourceUrl":"http://小鱼干.摸鱼儿.top"}, 
 
+{"sourceName":"👹GH-s14685仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/s14685/tv/main/dcall.json"}, 
+
 {"sourceName":"📽影视仓库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},  
 
 {"sourceName":"🐯壁纸仓库","sourceUrl":"https://download.kstore.space/download/2883/PY/%E8%AE%A2%E5%88%B6%E5%A3%81%E7%BA%B8%E5%BA%93.txt"},  
