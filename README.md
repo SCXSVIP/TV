@@ -8,7 +8,7 @@
             </svg>
         </a>Ftindy精选
         </h4>
-        <p dir="auto"><code>https://live.freetv.top/huyayqk.m3u</code>>&nbsp;&nbsp;&nbsp;&nbsp;Ftindydy大佬仓库</p>
+        <p dir="auto"><code>https://github.com/Ftindy/IPTV-URL</code>&nbsp;&nbsp;&nbsp;&nbsp;Ftindy大佬仓库</p>
         <p dir="auto"><code>https://live.freetv.top/huyayqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;虎牙一起看</p>
         <p dir="auto"><code>https://live.freetv.top/douyuyqk.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;斗鱼一起看</p>
         <p dir="auto"><code>https://www.goodiptv.club/yylunbo.m3u?url=https://lunbo.freetv.top</code>&nbsp;&nbsp;&nbsp;&nbsp;YY轮播
