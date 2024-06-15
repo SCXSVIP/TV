@@ -13,6 +13,8 @@
 
 {"sourceName":"🍚饭太硬库","sourceUrl":"https://d.kstore.space/download/2904/236.txt"},
 
+{"sourceName":"🎤欧歌主库","sourceUrl":"https://vip.nxog.top"},
+
 {"sourceName":"🎤欧歌仓库","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?b=欧歌"},
 
 {"sourceName":"🌴GH-wokaotianshi123","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/wokaotianshi123/tvtg/main/tgdc.json"},
