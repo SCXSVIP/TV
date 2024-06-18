@@ -144,6 +144,8 @@
         <p dir="auto"><code>http://epg.51zmt.top:8000/e.xml</code></p>
         <p dir="auto"><code>http://epg.aptvapp.com/xml</code></p>
         <p dir="auto"><code>https://epg.pw/xmltv.html?lang=zh-hant</code></p>
+        <p dir="auto"><code>https://fmmepg.33445500.xyz</code></p>
+        <p dir="auto"><code>hhttps://live.fanmingming.com/e.xml</code></p>
     </article>
 </div>
 </body>
