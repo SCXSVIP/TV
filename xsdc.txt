@@ -19,6 +19,8 @@
 
 {"sourceName":"🌴GH-wokaotianshi123","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/wokaotianshi123/tvtg/main/tgdc.json"},
 
+{"sourceName":"🌴毒盒仓库","sourceUrl":"https://tv.youdu.fan:666"},
+
 {"sourceName":"🌟拾光仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 
 {"sourceName":"⚛️qirenzhidao","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tvbox.json"},
