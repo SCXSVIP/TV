@@ -23,9 +23,15 @@
 
 {"sourceName":"🌴毒盒仓库","sourceUrl":"https://tv.youdu.fan:666"},
 
+{"sourceName":"🥼其人之道","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tvbox.json"},
+
 {"sourceName":"🌟拾光仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 
-{"sourceName":"⚛️qirenzhidao","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/tvbox.json"},
+{"sourceName":"⚛️PizazzGY","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"},
+
+{"sourceName":"📺noimank","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json"},
+
+{"sourceName":"🏍CandyMuj","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json"},
 
 {"sourceName":"🐮小牛仓库1","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc"},
 {"sourceName":"🐮小牛仓库2","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/tgdc.json"},
