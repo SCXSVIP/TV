@@ -31,8 +31,6 @@
 
 {"sourceName":"📺noimank","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json"},
 
-{"sourceName":"🏍CandyMuj","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json"},
-
 {"sourceName":"🐮小牛仓库1","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc"},
 {"sourceName":"🐮小牛仓库2","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/tgdc.json"},
 
