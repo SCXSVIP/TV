@@ -25,10 +25,8 @@
 {"name":"☁神器云","server":"https://alist.ygxz.xyz"},
 {"name":"💾神秘小盘","server":"https://yun.llzz.top/"},
 
+{"name":"🍯蜂蜜","server":"https://one.fongmi.com","hidden":true,"login":{"username":"fongmi","password":"fongmi"},"params":[{"path":"/安齋拉拉","pass":"18181818"}]}
 //{"name":"🐟摸摸鱼","server":"http://alist.xiaoya.pro/","startPage":"/","showAll":false,"search": true,"headers":{"Authorization":""},"params":{"/abc":{"password":"123"},"/abc/abc":{"password":"123"}}},
-{"name":"🍯蜂蜜","server":"https://one.fongmi.com","hidden":true,"login":{"username":"fongmi","password":"fongmi"},
-"params":[{"path":"/安齋拉拉","pass": "18181818"}]
-}
 /*{"name":"🌧秋雨","server":"https://share.qiuyu.org/"},
 {"name":"🥌SmjcLoveC","server":"http://pan.smjc.cc"},
 {"name":"🐉神族九帝","server":"https://alist.shenzjd.com"},
