@@ -33,7 +33,11 @@
 
 {"sourceName":"📺noimank","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json"},
 
-{"sourceName":"🌴GH-hd9211","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json"},
+{"sourceName":"🤵GH-高天流云","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
+
+{"sourceName":"🏆GH-hd9211优质","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/%E4%BC%98%E8%B4%A8.json"},
+
+{"sourceName":"💯GH-hd9211CR","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"},
 
 {"sourceName":"🌴GH-wokaotianshi123","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/wokaotianshi123/tvtg/main/tgdc.json"},
 
