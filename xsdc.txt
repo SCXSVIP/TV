@@ -5,11 +5,7 @@
 
 {"sourceName":"🐟摸鱼仓库","sourceUrl":"http://小鱼干.摸鱼儿.top"}, 
 
-{"sourceName":"👹GH-s14685仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/s14685/tv/main/dcall.json"}, 
-
 {"sourceName":"📽影视仓库","sourceUrl":"https://download.kstore.space/download/2883/10-13.json"},  
-
-{"sourceName":"🐯壁纸仓库","sourceUrl":"https://download.kstore.space/download/2883/PY/%E8%AE%A2%E5%88%B6%E5%A3%81%E7%BA%B8%E5%BA%93.txt"},  
 
 {"sourceName":"🍚饭太硬库","sourceUrl":"https://d.kstore.space/download/2904/236.txt"},
 
@@ -23,7 +19,9 @@
 
 {"sourceName":"🎤欧歌备库","sourceUrl":"http://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl"},
 
-{"sourceName":"🌴GH-wokaotianshi123","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/wokaotianshi123/tvtg/main/tgdc.json"},
+{"sourceName":"🐮小牛仓库1","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc"},
+
+{"sourceName":"🐮小牛仓库2","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/tgdc.json"},
 
 {"sourceName":"🌴毒盒仓库","sourceUrl":"https://tv.youdu.fan:666"},
 
@@ -35,8 +33,11 @@
 
 {"sourceName":"📺noimank","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json"},
 
-{"sourceName":"🐮小牛仓库1","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc"},
-{"sourceName":"🐮小牛仓库2","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/tgdc.json"},
+{"sourceName":"🌴GH-hd9211","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/duocang.json"},
+
+{"sourceName":"🌴GH-wokaotianshi123","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/wokaotianshi123/tvtg/main/tgdc.json"},
+
+{"sourceName":"👹GH-s14685仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/s14685/tv/main/dcall.json"}, 
 
 {"sourceName":"✨星影仓库","sourceUrl":"http://154.3.2.66:8889/down/YgOQS9WjkF6R.txt"},
 
