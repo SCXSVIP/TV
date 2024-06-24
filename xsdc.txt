@@ -13,6 +13,10 @@
 
 {"sourceName":"🍚饭太硬库","sourceUrl":"https://d.kstore.space/download/2904/236.txt"},
 
+{"sourceName":"🗃︎宝盒影视","sourceUrl":"https://gitlab.com/guot55/bh/-/raw/main/ysdc.json"},
+
+{"sourceName":"🌒宝盒迷库","sourceUrl":"https://gitlab.com/guot55/bh/-/raw/main/bhdc.json"},
+
 {"sourceName":"🎤欧歌主库","sourceUrl":"https://xn--dkw0c.v.nxog.top/"},
 
 {"sourceName":"🎤欧歌仓库","sourceUrl":"http://xn--dkw0c.u.nxog.top"},
