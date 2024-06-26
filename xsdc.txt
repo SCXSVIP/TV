@@ -35,13 +35,15 @@
 
 {"sourceName":"🤵GH-高天流云","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
 
-{"sourceName":"🏆GH-hd9211优质","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/%E4%BC%98%E8%B4%A8.json"},
+{"sourceName":"🏆GH-hd9211-优质","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/%E4%BC%98%E8%B4%A8.json"},
 
-{"sourceName":"💯GH-hd9211CR","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"},
+{"sourceName":"💯GH-hd9211-CR","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/cr.json"},
 
 {"sourceName":"🌴GH-wokaotianshi123","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/wokaotianshi123/tvtg/main/tgdc.json"},
 
-{"sourceName":"👹GH-s14685仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/s14685/tv/main/dcall.json"}, 
+{"sourceName":"👹GH-s14685","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/s14685/tv/main/dcall.json"},
+
+{"sourceName":"👹GH-hl128k","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hl128k/tvbox/main/url.json"},
 
 {"sourceName":"✨星影仓库","sourceUrl":"http://154.3.2.66:8889/down/YgOQS9WjkF6R.txt"},
 
