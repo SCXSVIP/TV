@@ -24,7 +24,6 @@
 古巨基-劲歌金曲3 Party King(Live),http://xsvip.dynv6.net/tv/古巨基-劲歌金曲3 Party King(Live).mp4
 
 🇨🇳󠁧󠁢󠁥󠁮潇洒央视,#genre#
-//Meroser-2024.01.09
 
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -979,6 +978,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 📺重庆频道,#genre#
 重庆新闻,https://live.goodiptv.club/api/cqyx.php?id=CQTVNewsHD
+重庆新闻,http://514b89.netsite.cc/proxy/1555453135/1555453135.m3u8
 重庆新闻,http://aff7da.netsite.cc/proxy/1555453135/1555453135.m3u8
 重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
 重庆社会与法,https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
