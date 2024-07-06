@@ -21,6 +21,8 @@
 
 {"sourceName":"🌴毒盒仓库","sourceUrl":"https://tv.youdu.fan:666"},
 
+{"sourceName":"💖念心仓库","sourceUrl":"https://pz.nianxin.top/nxD.json"},
+
 {"sourceName":"🦅-网游鹰K线路","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk/wyykdc.json"},
 
 {"sourceName":"🐮小牛仓库1","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc"},
@@ -47,6 +49,11 @@
 
 {"sourceName":"🏂GH-hl128k","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hl128k/tvbox/main/url.json"},
 
+{"sourceName":"🕸︎网络名家","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/网络名家.txt"},
+
+{"sourceName":"🐼熊猫不叫猫","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/adminouyang/xmbjm/main/xmbjmdc.json"},
+
+{"sourceName":"🧔‍GH-231006","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/%E5%BD%B1%E8%A7%86%E7%BA%BF%E8%B7%AF.txt" },
 
 {"sourceName":"✨星影仓库","sourceUrl":"http://154.3.2.66:8889/down/YgOQS9WjkF6R.txt"},
 
