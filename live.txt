@@ -1020,8 +1020,9 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
 📺重庆频道,#genre#
-重庆新闻,http://514b89.netsite.cc/proxy/1555453135/1555453135.m3u8
-重庆新闻,http://aff7da.netsite.cc/proxy/1555453135/1555453135.m3u8
+重庆卫视,http://118.144.105.55:91/live/CQWShd-8M/live.m3u8
+重庆卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
+重庆新闻,http://113.206.187.107:8001/udp/225.0.4.188:7980
 重庆影视,https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
 重庆社会与法,https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
 重庆时尚生活,https://live.goodiptv.club/api/cqyx.php?id=cqssgwHD
