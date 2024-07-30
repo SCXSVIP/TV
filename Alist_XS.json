@@ -4,8 +4,8 @@
 [
 {"name":"🧚🏻‍小雅1","server":"http://60.205.200.121:5344/"},
 {"name":"🧚🏻‍小雅2","server":"http://61.134.67.189:5678/"},
-{"name":"🤠潇洒本地1","server":"http://192.168.10.200:5678/"},
-{"name":"🤠潇洒本地2","server":"http://192.168.10.200:5344/"},
+{"name":"🤠潇洒本地1","server":"http://192.168.1.200:5678/"},
+{"name":"🤠潇洒本地2","server":"http://192.168.1.200:5344/"},
 {"name":"🤠潇洒DDNS1","server":"https://xskjxyalist.ddnsto.com/"},
 {"name":"🤠潇洒DDNS2","server":"https://m6xiaoya.ddnsto.com/"},
 {"name":"🐠‍摸鱼","server":"http://alist.xiaoya.pro/"},
