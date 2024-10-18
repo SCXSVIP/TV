@@ -23,6 +23,8 @@
 
 {"sourceName":"💖念心仓库","sourceUrl":"https://pz.nianxin.top/nxD.json"},
 
+{"sourceName":"🛶长青仓库","sourceUrl":"http://yuan.haitangw.net/box/"},
+
 {"sourceName":"⚛️PizazzGY","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"},
 
 {"sourceName":"🐝kimwang1978","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/kimwang1978/tvbox/main/tvbox.txt"},
