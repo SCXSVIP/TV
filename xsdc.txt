@@ -39,6 +39,8 @@
 
 {"sourceName":"🌟拾光仓库","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"},
 
+{"sourceName":"🌵vbskycn","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/vbskycn/tvbox/main/all.json"},
+
 {"sourceName":"📺noimank","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json"},
 
 {"sourceName":"🍳supermeguo","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemon.json"},
