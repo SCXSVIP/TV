@@ -19,12 +19,9 @@
 
 {"sourceName":"🎤欧歌多仓","sourceUrl":"https://xn--dkw0c.e.nxog.top/api.php?id=1?&fM8"},
 
-//{"sourceName":"🎤欧歌仓库","sourceUrl":"http://xn--dkw0c.u.nxog.top"},
+{"sourceName":"🌴毒盒影视","sourceUrl":"https://tv.youdu.fan:666"},
 
-//{"sourceName":"🎤欧歌备库","sourceUrl":"http://xn--dkw0c.v.xn--dkw.xn--6qq986b3xl"},
-
-//{"sourceName":"🌴毒盒仓库","sourceUrl":"https://tv.youdu.fan:666"},
-
+{"sourceName":"🎁聚玩盒子","sourceUrl":"http://xhztv.top/dc"},
 
 {"sourceName":"🐮小牛仓库1","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/dc"},
 
@@ -43,6 +40,8 @@
 {"sourceName":"🕸︎网络名家","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/网络名家.txt"},
 
 {"sourceName":"🐼熊猫不叫猫","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/adminouyang/xmbjm/main/xmbjmdc.json"},
+
+{"sourceName":"🎤GH-noimank","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/noimank/tvbox/refs/heads/main/tvboxmuti.json"},
 
 {"sourceName":"🤵GH-高天流云","sourceUrl":"https://g.3344550.xyz/https://raw.githubusercontent.com/hd9211/Tvbox1/main/gaotianliuyun.json"},
 
