@@ -87,7 +87,7 @@
         },
         "wwdj": {
             "api": "https://wwzy.tv/api.php/provide/vod",
-            "name": "旺旺短剧"
+            "name": "旺旺短剧",
             "detail": "https://wwzy.tv"
         },
         "wwzy": {
