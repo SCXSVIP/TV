@@ -15,9 +15,9 @@
             "name": "暴风资源"
         },
         "tyyszy": {
-            "name": "天涯资源"
             "api": "https://tyyszy.com/api.php/provide/vod",
-            "detail": "https://tyyszy.com"
+            "name": "天涯资源",
+			"detail": "https://tyyszy.com"
         },
         "ffzy": {
             "api": "https://api.ffzyapi.com/api.php/provide/vod",
