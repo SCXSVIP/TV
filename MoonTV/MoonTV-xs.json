@@ -17,7 +17,7 @@
         "tyyszy": {
             "api": "https://tyyszy.com/api.php/provide/vod",
             "name": "天涯资源",
-			"detail": "https://tyyszy.com"
+            "detail": "https://tyyszy.com"
         },
         "ffzy": {
             "api": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -86,8 +86,8 @@
             "detail": ""
         },
         "wwdj": {
-            "api": "https://wwzy.tv/api.php/provide/vod",
             "name": "旺旺短剧",
+            "api": "https://wwzy.tv/api.php/provide/vod",
             "detail": "https://wwzy.tv"
         },
         "wwzy": {
@@ -113,7 +113,7 @@
         },
         "xinlangaa": {
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-            "name": "新浪资源"
+            "name": "新浪资源",
             "detail": "https://api.xinlangapi.com"
         },
         "ckzy": {
@@ -346,7 +346,7 @@
             "api": "https://caiji.kuaichezy.org/api.php/provide",
             "name": "快车资源阿"
         },
-        "xinlangaa": {
+        "xinlangzy": {
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
             "name": "新浪资源阿"
         },
@@ -378,7 +378,7 @@
             "api": "https://www.fantuan.tv/api.php/provide/vod/",
             "name": "饭团影视"
         }
-		"155zy": {
+        "115zy": {
             "name": "155资源",
             "api": "https://155api.com/api.php/provide/vod",
             "detail": "https://155api.com"
