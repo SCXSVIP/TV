@@ -377,7 +377,7 @@
         "fantuanyingshi": {
             "api": "https://www.fantuan.tv/api.php/provide/vod/",
             "name": "饭团影视"
-        }
+        },
         "115zy": {
             "name": "155资源",
             "api": "https://155api.com/api.php/provide/vod",
